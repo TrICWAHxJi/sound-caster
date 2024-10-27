@@ -1,0 +1,7 @@
+[server]
+ip = "127.0.0.1"
+port = 3000
+
+[pyaudio]
+chunk = 1024
+format = "paInt16"
